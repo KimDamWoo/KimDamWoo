@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=290&section=header&text=DamWoo's-nl-profile%20&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=290&section=header&text=DamWoo's-nl-profile%20&fontSize=80" />
 
 ## Introduction
 
