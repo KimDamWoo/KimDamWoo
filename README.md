@@ -1,6 +1,5 @@
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=290&section=header&text=DamWoo's%20profile%20&fontSize=80" />
+
 ## Introduction
 
 ## Career
