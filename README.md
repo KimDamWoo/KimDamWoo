@@ -12,9 +12,7 @@
 영남대학교 컴퓨터학부 컴퓨터공학전공 학생<br>"Not just a dev, a dream builder"
 
 ## Goal
-공공데이터 활용 앱 개발
-차량SW 개발
-개인 유튜브 운영
+공공데이터 활용 앱 개발<br>차량SW 개발<br>개인 유튜브 운영
 
 ## Links
 -Email: kdo6243@naver.com
